@@ -1,0 +1,23 @@
+{
+  "name": "classof2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/index.css -o ./templates/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://%C2%96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@github.com/Githu77/ClassOf2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Githu77/ClassOf2024/issues"
+  },
+  "homepage": "https://github.com/Githu77/ClassOf2024#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
